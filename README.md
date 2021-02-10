@@ -5,8 +5,7 @@ The ability to interact and communicate with people is a real pleasure.<br>
 It was always interesting for me to solve various logical and mathematical problems.<br> 
 I created this repository to share my knowledge in this area and to make it easier for you in this direction.<br> 
 <br>
-If you need anything like a bit of help for a project 🗣️,  explanations of my codes 💬 , or want to have a beer 🍻,<br> 
-you can find me on:<br>
+If you need anything like a bit of help for a project 🗣️,  explanations of my codes 💬 , or want to have a beer 🍻, you can find me on:<br>
 Slack: buthor;<br>
 Telegram: @dvsavchenko;<br>
 email: dvs.rocker@gmail.com.<br>
