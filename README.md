@@ -1,15 +1,16 @@
-### I'm Dima, a 21School or 42Ecole Student 👋
+### <h1 align="center">I'm Dima, a 21School or 42Ecole Student 👋</h1>
 
-I like to automate, optimize various processes, create something new and share the knowledge gained. 
-The ability to interact and communicate with people is a real pleasure. 
-It was always interesting for me to solve various logical and mathematical problems. 
-I created this repository to share my knowledge in this area and to make it easier for you in this direction. 
-
-If you need anything like a bit of help for a project 🗣️,  explanations of my codes 💬 , or want to have a beer 🍻, 
-you can find me on: \n
-Slack (buthor);
-Telegram https://t.me/dvsavchenko (@dvsavchenko);
-email : dvs.rocker@gmail.com.
-
-It's time to learn something new! It's time to CODE!
+<p align="center">I like to automate, optimize various processes, create something new and share the knowledge gained.<br> 
+The ability to interact and communicate with people is a real pleasure.<br> 
+It was always interesting for me to solve various logical and mathematical problems.<br> 
+I created this repository to share my knowledge in this area and to make it easier for you in this direction.<br> 
+<br>
+If you need anything like a bit of help for a project 🗣️,  explanations of my codes 💬 , or want to have a beer 🍻,<br> 
+you can find me on:<br>
+Slack (buthor);<br>
+Telegram https://t.me/dvsavchenko (@dvsavchenko);<br>
+email : dvs.rocker@gmail.com.<br>
+<br>
+It's time to learn something new! It's time to CODE!<br>
 Welcome to this exciting journey!
+</p>
