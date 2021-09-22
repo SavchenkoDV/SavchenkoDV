@@ -13,3 +13,5 @@ If you need anything like a bit of help for a project 🗣️,  explanations of 
 It's time to learn something new! It's time to CODE!<br>
 Welcome to this exciting journey!
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savchenkodv&layout=compact)
