@@ -1,4 +1,4 @@
-### <h1 align="left">I'm Dima, a 21School or 42Ecole Student 👋</h1>
+### <h1 align="left">I'm Dmitrii, a 21School or 42Ecole Student 👋</h1>
 
 <p align="left">I like to automate, optimize various processes, create something new and share the knowledge gained.<br> 
 The ability to interact and communicate with people is a real pleasure.<br> 
