@@ -7,6 +7,7 @@ I created this repository to share my knowledge in this area and to make it easi
 <br>
 If you need anything like a bit of help for a project 🗣️,  explanations of my codes 💬 , or want to have a beer 🍻, you can find me on:<br>
 * Slack: buthor;<br>
+* Discord: dvsavchenko DVSavchenko#4560;<br>  
 * Telegram: @dvsavchenko;<br>
 * Email: dvs.rocker@gmail.com.<br>
 <br>
