@@ -9,7 +9,6 @@ If you need anything like a bit of help for a project 🗣️,  explanations of 
 * Slack: buthor;<br>
 * Discord: dvsavchenko DVSavchenko#4560;<br>  
 * Telegram: @dvsavchenko;<br>
-* Email: dvs.rocker@gmail.com.<br>
 <br>
 It's time to learn something new! It's time to CODE!<br>
 Welcome to this exciting journey!
