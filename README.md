@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dmitrii 👋</h1>
+<h1 align="left">Hi, I'm Dmitrii 👋</h1>
 
 Aspiring **Software Engineer** with a solid foundation in DevOps, backend development, and system-level programming.  
 I’m passionate about building reliable and scalable infrastructure, exploring modern software technologies, and turning ideas into practical solutions.
