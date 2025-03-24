@@ -11,7 +11,7 @@ Alongside, I actively develop skills in cloud platforms, CI/CD, and automation �
 ### 💡 About Me
 
 - 🎯 I enjoy creating well-structured code, clean tooling, and infrastructure that empowers engineering teams.
-- 🛠️ I'm interested in technologies where performance, control, and architecture matter: C/C++, Go, Python, Bash, Docker, Kubernetes, Jenkins, GitLab CI.
+- 🛠️ I'm interested in technologies where performance, control, and architecture matter: Python, C/C++, Go, Clouds, Kubernetes, Jenkins.
 - 🎮 I’m curious about gamedev, multimedia systems, and the intersection of tech with creativity.
 - 🌍 Based in France, open to relocation or remote collaboration.
 
