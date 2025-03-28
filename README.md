@@ -19,7 +19,7 @@ Alongside, I actively develop skills in cloud platforms, CI/CD, and automation �
 
 ### 📫 Get in Touch
 
-- 💬 **Discord**: `dvsavchenko DVSavchenko#4560`  
+- 💬 **Discord**: `DVSavchenko#4560`  
 - 📱 **Telegram**: [@dvsavchenko](https://t.me/dvsavchenko)
 
 ---
