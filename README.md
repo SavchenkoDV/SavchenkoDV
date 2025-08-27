@@ -4,6 +4,7 @@ Aspiring **Software Engineer** with a solid foundation in DevOps, backend develo
 I’m passionate about building reliable and scalable infrastructure, exploring modern software technologies, and turning ideas into practical solutions.
 
 Currently studying at **Ecole 42**, where I work on hands-on projects that cover C/C++, low-level memory management, multithreading, network programming, containerization, and system design.  
+
 ---
 
 ### 💡 About Me
