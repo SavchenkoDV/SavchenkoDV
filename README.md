@@ -11,7 +11,6 @@ Currently studying at **Ecole 42**, where I work on hands-on projects that cover
 
 - 🎯 I enjoy creating well-structured code, clean tooling, and infrastructure that empowers engineering teams.
 - 🛠️ I'm interested in technologies where performance, control, and architecture matter: Python, C/C++, Go, Clouds, Kubernetes, Jenkins.
-- 🎮 I’m curious about gamedev, multimedia systems, and the intersection of tech with creativity.
 - 🌍 Based in France, open to relocation or remote collaboration.
 
 ---
