@@ -3,7 +3,7 @@
 Aspiring **Software Engineer** with a solid foundation in DevOps, backend development, and system-level programming.  
 I’m passionate about building reliable and scalable infrastructure, exploring modern software technologies, and turning ideas into practical solutions.
 
-Currently studying at **Ecole 42**, where I work on hands-on projects that cover C/C++, low-level memory management, multithreading, network programming, containerization, and system design.  
+Currently studying at **Ecole 42**.
 
 ---
 
@@ -11,7 +11,6 @@ Currently studying at **Ecole 42**, where I work on hands-on projects that cover
 
 - 🎯 I enjoy creating well-structured code, clean tooling, and infrastructure that empowers engineering teams.
 - 🛠️ I'm interested in technologies where performance, control, and architecture matter: Python, C/C++, Go, Clouds, Kubernetes, Jenkins.
-- 🌍 Based in France, open to relocation or remote collaboration.
 
 ---
 
