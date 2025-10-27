@@ -3,7 +3,7 @@
 **Software Engineer** with a solid foundation in DevOps, backend development, and system-level programming.  
 I’m passionate about building reliable and scalable infrastructure, exploring modern software technologies, and turning ideas into practical solutions.
 
-Currently studying at **Ecole 42**.
+Currently studying at **Ecole 42**, Paris, France.
 
 ---
 
