@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Dmitrii 👋</h1>
 
 **Software Engineer** with a solid foundation in DevOps, backend development, and system-level programming.  
-I’m passionate about building reliable and scalable infrastructure, exploring modern software technologies, and turning ideas into practical solutions.
+I enjoy building products and working with teams to turn ideas into practical, reliable, and scalable solutions.
 
 Currently studying at **Ecole 42**, Paris, France.
 
@@ -9,8 +9,8 @@ Currently studying at **Ecole 42**, Paris, France.
 
 ### 💡 About Me
 
-- 🎯 I enjoy creating well-structured code, clean tooling, and infrastructure that empowers engineering teams.
-- 🛠️ I'm interested in technologies where performance, control, and architecture matter: Python, C/C++, Go, Clouds, Kubernetes, Jenkins.
+- 🎯 I like designing clean architectures, writing maintainable code, and building systems that bring real value to users and teams.  
+- 🛠️ I’m interested in technologies where performance, reliability, and design matter — Python, C/C++, Go, Kubernetes, and cloud platforms.
 
 ---
 
