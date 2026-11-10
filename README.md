@@ -19,15 +19,5 @@ Currently studying at **Ecole 42**, Paris, France.
 - 💬 **Discord**: `DVSavchenko#4560`  
 - 📱 **Telegram**: [@dvsavchenko](https://t.me/dvsavchenko)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavchenkoDV&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 <p align="center"><em>“Learning by building. Improving by doing. Let’s create something that works — and works well.”</em></p>
 <p align="center">Thanks for visiting my GitHub!</p>
